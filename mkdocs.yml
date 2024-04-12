@@ -1,0 +1,7 @@
+site_name: MkDocs Test Documentation
+site_description: Test project with Github Pages
+theme: material
+
+nav:
+  - Home: index.md
+  - About: about.md
